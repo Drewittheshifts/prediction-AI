@@ -1,0 +1,5 @@
+schedule==1.2.0
+requests==2.31.0
+balldontlie==0.1.6
+jupyter==1.0.0
+notebook==7.0.0 
